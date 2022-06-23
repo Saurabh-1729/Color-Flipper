@@ -1,5 +1,3 @@
-const colors = ["red", "blue", "black", "green", "cyan", "yellow"];
-
 const btn = document.getElementById('btn');
 const color = document.getElementById('color');
 
